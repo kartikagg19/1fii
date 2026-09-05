@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "1fi",
+    "name": "1Fi",
     "slug": "1fi",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -20,6 +20,9 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "plugins": [
+      "expo-font"
+    ]
   }
 }
